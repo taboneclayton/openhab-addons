@@ -9,7 +9,7 @@
 		<channels>
 			<channel id="power" typeId="system.power" />
 			<channel id="mode" typeId="mode" />
-			<channel id="targetTemperature" typeId="targetTemperature" />
+			<channel id="temperature" typeId="targetTemperature" />
 			<channel id="currentTemperature" typeId="currentTemperature" />
 			<channel id="air" typeId="air" />
 			<channel id="dry" typeId="dry" />
